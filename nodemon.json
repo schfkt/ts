@@ -1,0 +1,10 @@
+{
+  "ignore": [
+    ".git",
+    "build",
+    "node_modules"
+  ],
+  "ext": "ts",
+  "exec": "./node_modules/.bin/ts-node ./src/server.ts",
+  "delay": "1000"
+}

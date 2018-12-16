@@ -1,0 +1,7 @@
+{
+  "extends": "../tsconfig",
+  "include": ["../typings", "../src", "../test"],
+  "compilerOptions": {
+    "noEmit": true
+  }
+}

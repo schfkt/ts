@@ -1,0 +1,7 @@
+printWidth: 120
+tabWidth: 2
+semi: true
+parser: typescript
+trailingComma: all
+bracketSpacing: false
+arrowParens: always
